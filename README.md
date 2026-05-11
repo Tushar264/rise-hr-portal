@@ -368,39 +368,6 @@ Hosted on MongoDB Atlas.
 
 ---
 
-# Screenshots
-
-## Dashboard
-(Add Screenshot)
-
-## Admin Dashboard
-(Add Screenshot)
-
-## Calendar
-(Add Screenshot)
-
-## Announcements Feed
-(Add Screenshot)
-
-## Audit Logs
-(Add Screenshot)
-
----
-
-# Future Improvements
-
-- Google OAuth authentication
-- Real-time notifications using Socket.io
-- Mention system
-- Infinite scrolling
-- Advanced analytics
-- Search functionality
-- Dark mode
-- Docker support
-- CI/CD pipeline
-
----
-
 # Learning Outcomes
 
 This project helped in understanding:
