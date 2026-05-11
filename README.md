@@ -111,7 +111,6 @@ The application provides leave management workflows, shared calendar functionali
 
 ## Frontend
 
-```plaintext
 client/
 │
 ├── src/
@@ -119,3 +118,15 @@ client/
 │   ├── pages/
 │   ├── services/
 │   └── App.jsx
+
+## Backend
+
+server/
+│
+├── controllers/
+├── middlewares/
+├── models/
+├── routes/
+├── utils/
+├── cron/
+└── server.js
