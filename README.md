@@ -111,6 +111,8 @@ The application provides leave management workflows, shared calendar functionali
 
 ## Frontend
 
+
+```plaintext
 client/
 │
 ├── src/
